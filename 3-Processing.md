@@ -58,7 +58,7 @@ On a Warehouse Shipment, click the lines section menu
 
 **Inventory Put-Aways:**  Inventory Put-Aways function more-or-less the same as Warehouse Put-Aways, with the exception that it is possible to capture tracking information in addition to the bin code.  
 
-        ![alt text](./img/image-15.png) 
+![alt text](./img/image-15.png) 
 
 After capturing the tracking no. it will prompt the user for a Qty. to Handle. The default value will be the Outstanding Quantity.
  
